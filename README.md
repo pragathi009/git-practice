@@ -1,13 +1,3 @@
-# AI Log Analyzer
+# Git Practice
 
-A simple shell script that analyzes log files.
-
-Features:
-- Counts ERROR messages
-- Counts WARNING messages
-- Shows frequent log entries
-- Generates basic health suggestions
-
-Usage:
-
-./ai-log-analyzer.sh
+Learning Linux, Git, GitHub and Shell Scripting on AWS EC2.
