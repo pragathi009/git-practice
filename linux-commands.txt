@@ -1,2 +1,3 @@
 pwd :shows current directory
  ls lists files and folders
+cat displays file contents
